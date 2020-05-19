@@ -1,0 +1,58 @@
+body{
+    margin-left: 200px;
+    padding: 20px;
+    font-style: italic;
+    font-family:sans-serif;
+     background-image: url("ktm_790_duke_4k_2019.jpg");
+    background-color: black;
+    width: auto;
+   background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-position: left;
+}
+.sgnup1{
+    padding: 25px 25px;
+    transform: translate(30%,20%);
+}
+h3{
+    text-transform: uppercase;
+    color: #000;
+}
+/*.cust{
+    margin-left: 200px;
+    padding: 20px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #ffaa00;
+    width: 400px;  
+    background: rgba(0,0,0,.2);
+    box-sizing: border-box;
+    box-shadow: 0 25px 35px rgba(0,0,0,.5);
+    border-radius: 30px;
+}
+.cust input
+{
+    margin-bottom: 5px;
+}
+.cust h3{
+    margin: 0 0 30px;
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+}
+.cust button[type="submit"]{
+    background:transparent;
+    border: none;
+    outline: none;
+    color:#000000;
+    background: #ffaa00;
+    padding: 10px 20px;
+    cursor:pointer;
+    border-radius: 16px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    
+}*/

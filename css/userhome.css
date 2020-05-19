@@ -1,0 +1,27 @@
+body{
+    margin-left: 200px;
+    padding: 20px;
+    font-style: italic;
+    font-family:sans-serif;
+     background-image: url("ktm_790_duke_4k_2019.jpg");
+    background-color: black;
+    width: auto;
+   background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-position: left;
+}
+.order{
+background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 200px ;   
+}
+.order:hover{
+    background-color: #ffaa00;
+}
+#active{
+    background-color: #ffaa00;
+}

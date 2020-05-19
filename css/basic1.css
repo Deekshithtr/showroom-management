@@ -1,0 +1,43 @@
+ body{
+          color: aliceblue;
+        background-color: rgb(150,100,100);
+        font-family:sans-serif;
+     padding: 100px;
+     font-size: 15px;
+     font-style: italic;
+     line-height:30px;
+     background-image: url("F:/picss/wallpapers/Forests_Fog_Puddle_Nature_4500x2992.jpg");
+     width: auto;
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-position: center;
+    }
+form{
+    width: 90%;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    margin: auto;
+    width: 90%;
+}
+li a:hover{
+    background-color: #ffaaff;
+    color: white;
+}
+#vid{
+    width: 75%;
+}
+#form1 input,textarea{
+    border: none;
+    border-bottom: 2px solid aliceblue ;
+    background: transparent;
+}
+/*#pers
+{
+    float: left;
+}
+#pers2{
+    float: left;
+}
+*/

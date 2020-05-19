@@ -1,0 +1,70 @@
+body{
+     margin-left: 200px;
+    padding: 20px;
+    font-style: italic;
+    font-family:sans-serif;
+    background-color:black;
+    background-image: url("ktm_790_duke_4k_2019.jpg");
+    width: auto;
+   background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-position: left;
+}
+.form h3{
+   text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin: 10 10;
+}
+.form{
+    margin-left: 200px;
+    padding: 20px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #ffaa00;
+    width: 400px;  
+    background: rgba(0,0,0,.2);
+    box-sizing: border-box;
+    box-shadow: 0 25px 35px rgba(0,0,0,.5);
+    border-radius: 30px;
+}
+
+.form .input100{
+    position: relative;
+    margin: 10px;
+    text-align: le;
+  float: inherit;
+}
+.form .input100 input{
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #ffaa00;
+    margin-bottom:30px;
+    border: none; 
+    border-bottom: 2px solid #ffaa00;
+    outline: none;
+    background: transparent;   
+}
+
+.form .input100 label{
+   position: absolute;
+    top:-30%;
+    left:0 ;
+    padding: 10px 0;
+    font-size: 16px;
+    pointer-events: none;
+    transition: .5s;
+}
+.form .btn{
+    background:transparent;
+    border: none;
+    outline: none;
+    color:#000000;
+    background: #ffaa00;
+    padding: 10px 10px;
+    cursor:pointer;
+    border-radius: 16px;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color:#fff;
+    font-family: sans-serif;
+    font-style: italic;
+    width: 90%;
+    background-image: url("automobile-black-bumper-97458.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-left: 200px;
+}
+p{
+    padding: 15%;
+     font-size: 26px;
+    font-family:monospace;
+}

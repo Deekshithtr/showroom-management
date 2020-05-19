@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>Contact</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="contactform.css">
+</head>
+<body>
+    <div class="sidenav">
+  <a href="mini.html">Home</a>
+  
+    <div class="dropdown">
+  <button class="dropbtn">Sign-in</button>
+  <div class="dropdown-content">
+    <a href="admin.html">admin</a>
+    <a href="employee.html">employee</a>
+  </div>
+</div>
+    <a class="active" href="ContactFrom.html">Contact</a>
+  <a href="#">About</a>
+</div>
+    <div class="form">
+    <label>first name</label>
+    <input id="first-name" class="input100" type="text" name="first-name" placeholder="First name"><br>
+    <label>last name</label>
+    <input class="lastname" type="text" name="last-name" placeholder="Last name"><br>
+    <label>email</label>
+    <input id="email" class="input100" type="text" name="email" placeholder="Eg.example@email.com"><br>
+    <label>phone number</label>
+    <input id="phone" class="input100" type="text" name="phone" placeholder="Eg. +1 800 000000"><br>
+    <textarea id="message" class="input100" name="message" placeholder="Write us a message"></textarea><br>
+<button class="btn">Send Message</button>
+        </div>
+</body>    
+</html>

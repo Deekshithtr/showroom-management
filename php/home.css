@@ -1,0 +1,12 @@
+body{
+    font-family: monospace;
+    font-style: italic;
+    font-size: 15;
+    width: 100%;
+    color: #ffaa00;
+    background-color: black;
+}
+img
+{
+  max-width: 100%;  
+}
